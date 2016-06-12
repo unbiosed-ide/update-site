@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/me.fmartins.unbiosed.feature_1.0.0.qualifier.jar" id="me.fmartins.unbiosed.feature" version="1.0.0.qualifier">
+      <category name="unbiosedtools"/>
+   </feature>
+   <category-def name="unbiosedtools" label="unBIOSed Tools"/>
+</site>
